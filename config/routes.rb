@@ -1,4 +1,4 @@
-SampleApp::Application.routes.draw do
+Piri::Application.routes.draw do
 
   resources :users do
     member do
